@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "email": "jcodepod@gmail.com",
+      "password": "12345678910",
+      "universities": [
+        {
+          "country": "United States",
+          "domains": [
+            "middlebury.edu"
+          ],
+          "alpha_two_code": "US",
+          "state-province": null,
+          "web_pages": [
+            "http://www.middlebury.edu/"
+          ],
+          "name": "Middlebury College"
+        },
+        {
+          "country": "United States",
+          "domains": [
+            "mga.edu"
+          ],
+          "alpha_two_code": "US",
+          "state-province": null,
+          "web_pages": [
+            "http://www.mga.edu/"
+          ],
+          "name": "Middle Georgia State College"
+        },
+        {
+          "country": "Jordan",
+          "domains": [
+            "meu.edu.jo"
+          ],
+          "alpha_two_code": "JO",
+          "state-province": null,
+          "web_pages": [
+            "http://www.meu.edu.jo/"
+          ],
+          "name": "Middle East University"
+        },
+        {
+          "country": "Turkey",
+          "domains": [
+            "metu.edu.tr"
+          ],
+          "alpha_two_code": "TR",
+          "state-province": null,
+          "web_pages": [
+            "http://www.metu.edu.tr/"
+          ],
+          "name": "Middle East Technical University"
+        }
+      ]
+    },
+    {
+      "email": "cobra@gmail.com",
+      "password": "123456789",
+      "universities": [
+        {
+          "country": "United States",
+          "domains": [
+            "middlebury.edu"
+          ],
+          "alpha_two_code": "US",
+          "state-province": null,
+          "web_pages": [
+            "http://www.middlebury.edu/"
+          ],
+          "name": "Middlebury College"
+        },
+        {
+          "country": "United States",
+          "domains": [
+            "mga.edu"
+          ],
+          "alpha_two_code": "US",
+          "state-province": null,
+          "web_pages": [
+            "http://www.mga.edu/"
+          ],
+          "name": "Middle Georgia State College"
+        },
+        {
+          "country": "Jordan",
+          "domains": [
+            "meu.edu.jo"
+          ],
+          "alpha_two_code": "JO",
+          "state-province": null,
+          "web_pages": [
+            "http://www.meu.edu.jo/"
+          ],
+          "name": "Middle East University"
+        },
+        {
+          "country": "Turkey",
+          "domains": [
+            "metu.edu.tr"
+          ],
+          "alpha_two_code": "TR",
+          "state-province": null,
+          "web_pages": [
+            "http://www.metu.edu.tr/"
+          ],
+          "name": "Middle East Technical University"
+        }
+      ]
+    }
+  ]
+}

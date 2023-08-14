@@ -1,0 +1,23 @@
+.universitySearch {
+}
+
+.core {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.emptyState {
+  width: 100%;
+  display: flex;
+  margin: auto;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+.containedResult {
+  height: calc(100vh - 300px);
+  overflow: auto;
+  max-width: 530px;
+}

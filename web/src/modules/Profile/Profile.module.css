@@ -1,0 +1,20 @@
+.profileContainer {
+  height: calc(100vh - 100px);
+  padding-top: 80px;
+  font-size: 14px;
+}
+
+.emptyState {
+  width: 100%;
+  display: flex;
+  margin: auto;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchContainer {
+  height: calc(100vh - 300px);
+  overflow: auto;
+  max-width: 530px;
+}

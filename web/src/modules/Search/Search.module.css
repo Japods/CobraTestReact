@@ -1,0 +1,5 @@
+.searchContainer {
+  height: calc(100vh - 100px);
+  padding-top: 80px;
+  font-size: 14px;
+}

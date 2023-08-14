@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  width: 100%;
+  background-color: #f6fbf9;
+}
+
+.container {
+  margin: 0 auto; /* Centra horizontalmente */
+  max-width: 1200px; /* Ancho máximo */
+  width: 100%; /* Para asegurar que ocupe todo el ancho disponible */
+  box-sizing: border-box; /* Incluye padding en el ancho total */
+}
